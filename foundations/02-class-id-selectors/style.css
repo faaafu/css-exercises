@@ -1,0 +1,19 @@
+.class-1-5, 
+.class-3 {
+    background: lightpink;
+    font-family: "Verdana", "DejaVu Sans", "sans-serif";
+}
+#id-2 {
+    color: blue;
+    font-size: 36px;
+}
+.class-3 {
+font-size: 24px;
+}
+
+#id-4 {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: 700;
+
+}
